@@ -31,7 +31,7 @@ const App = () => {
       );
     }
   }
-
+// add
  const onSignup= async()=> {
     setVerifyLoading(true);
     onCaptchVerify();
